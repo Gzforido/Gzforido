@@ -9,19 +9,19 @@
   <img src="https://komarev.com/ghpvc/?username=Gzforido&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<h3 align="center">Developer exploring systems, automation, and creative tooling</h3>
+<h3 align="center">Developer exploring systems, backend development, and automation</h3>
 
 <p align="center">
-  <code>C++</code>&nbsp;•&nbsp;<code>C#</code>&nbsp;•&nbsp;<code>Python</code>&nbsp;•&nbsp;<code>JavaScript</code>&nbsp;•&nbsp;<code>Telegram</code>&nbsp;•&nbsp;<code>Reverse Engineering</code>
+  <code>C</code>&nbsp;•&nbsp;<code>C++</code>&nbsp;•&nbsp;<code>C#</code>&nbsp;•&nbsp;<code>Rust</code>&nbsp;•&nbsp;<code>Zig</code>&nbsp;•&nbsp;<code>NASM</code>&nbsp;•&nbsp;<code>Go</code>&nbsp;•&nbsp;<code>Python</code>&nbsp;•&nbsp;<code>JavaScript</code>
 </p>
 
 ---
 
 ### About me
 
-- Building and studying software across desktop tools, automation, and Telegram projects.
-- Interested in decoding, reverse engineering, and game tooling research.
-- Growing a practical stack around **C++**, **C#**, **Python**, and **JavaScript**.
+- Building desktop tools and experimenting with local AI, automation, and Telegram projects.
+- Exploring systems programming, reverse engineering, and game tooling with **C**, **C++**, **Rust**, **Zig**, and **NASM**.
+- Expanding my toolkit with **C#**, **Go**, **Python**, **JavaScript**, **FastAPI**, **PostgreSQL**, and **Linux**.
 
 ### Tech stack
 
