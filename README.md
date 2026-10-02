@@ -30,6 +30,11 @@
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=c,rust,zig,go,fastapi,postgres,linux&theme=dark" alt="C, Rust, Zig, Go, FastAPI, PostgreSQL, and Linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NASM-0d1117?style=for-the-badge&labelColor=0d1117&color=D6A841" alt="NASM" />
   <img src="https://img.shields.io/badge/Telegram_Tooling-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram tooling" />
   <img src="https://img.shields.io/badge/Reverse_Engineering-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Reverse engineering" />
   <img src="https://img.shields.io/badge/Game_Tooling-0d1117?style=for-the-badge&logo=unrealengine&logoColor=A78BFA" alt="Game tooling" />
